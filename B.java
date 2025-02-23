@@ -4,5 +4,7 @@ public class B{
         System.out.println(a.x);
         int z= a.x + a.y;
         System.out.println(z);
+        C c = new C(3, 4);
+        System.out.println("Sum of c1 and c2 is: " + c.sum());
     }
 }
