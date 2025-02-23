@@ -14,7 +14,12 @@ public class C{
     public int sum(){
         return c1 + c2;
     }
+<<<<<<< HEAD
     public int product(){
         return c1 * c2;
+=======
+    public boolean isGreater(){
+        return c1 > c2;
+>>>>>>> feature1
     }
 }
