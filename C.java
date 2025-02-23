@@ -14,5 +14,7 @@ public class C{
     public int sum(){
         return c1 + c2;
     }
-    
+    public int product(){
+        return c1 * c2;
+    }
 }
