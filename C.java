@@ -19,10 +19,14 @@ public class C{
     public boolean isGreater(){
         return c1 > c2;
     }
+<<<<<<< HEAD
+    //I am in the C class
+=======
     public boolean isLess(){
         return c1 < c2;
     }
     public boolean isEqual(){
         return c1 == c2;
     }
+>>>>>>> origin/master
 }
