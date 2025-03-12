@@ -22,4 +22,7 @@ public class C{
     public boolean isLess(){
         return c1 < c2;
     }
+    public boolean isEqual(){
+        return c1 == c2;
+    }
 }
