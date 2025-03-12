@@ -15,4 +15,7 @@ class A{
     public int sum(){
         return x + y;
     }
+    public int sum(int z){
+        return x + y + z;
+    }
 }
