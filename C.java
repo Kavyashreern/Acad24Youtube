@@ -19,5 +19,10 @@ public class C{
     public boolean isGreater(){
         return c1 > c2;
     }
-    //I am in feat4 branch
+    public boolean isLess(){
+        return c1 < c2;
+    }
+    public boolean isEqual(){
+        return c1 == c2;
+    }
 }
