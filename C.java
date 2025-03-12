@@ -19,4 +19,7 @@ public class C{
     public boolean isGreater(){
         return c1 > c2;
     }
+    public boolean isLess(){
+        return c1 < c2;
+    }
 }
